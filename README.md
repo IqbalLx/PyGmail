@@ -10,6 +10,6 @@ How To Use:
 
 Screenshot :
 
-![PyGMAIL] (https://github.com/IqbalLx/PyGmail/blob/master/pygmail.png)
+![PyGMAIL](https://github.com/IqbalLx/PyGmail/blob/master/pygmail.png)
 
-![PyGmail] (https://github.com/IqbalLx/PyGmail/blob/master/pygmai2l.png)
+![PyGmail](https://github.com/IqbalLx/PyGmail/blob/master/pygmai2l.png)
